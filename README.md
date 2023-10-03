@@ -4,3 +4,5 @@ Update:
 New Themes. Made by me
 
 Bypassed
+
+https:chrome://bookmarks/
