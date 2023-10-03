@@ -5,4 +5,4 @@ New Themes. Made by me
 
 Bypassed
 
-https:chrome://bookmarks/
+chrome://bookmarks/
