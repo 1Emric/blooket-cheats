@@ -7,7 +7,7 @@ Bypassed
 
 Tutorial:
 
-goto https://github.com/DrTrey/blooket-cheats/blob/main/Bookmarklets%20(1).html
+goto [https://github.com/DrTrey/blooket-cheats/blob/main/Bookmarklets%20(1).html](https://github.com/DrTrey/blooket-cheats/releases/tag/blooket)
 Download the file
 Then paste chrome://bookmarks/ into your browser
 Click import settings
