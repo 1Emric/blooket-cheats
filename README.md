@@ -1,13 +1,13 @@
 # blooket-cheats
 
 Update:
-New Themes. Made by me
+New Themes
 
 Bypassed
 
 Tutorial:
 
-goto [https://github.com/DrTrey/blooket-cheats/blob/main/Bookmarklets%20(1).html](https://github.com/DrTrey/blooket-cheats/releases/tag/blooket)
+goto https://github.com/1Emric/blooket-cheats/blob/blooket/Bookmarklets.html
 Download the file
 Then paste chrome://bookmarks/ into your browser
 Click import settings
