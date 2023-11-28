@@ -1,7 +1,8 @@
 # blooket-cheats
 
-Update:
-New Themes
+You can find a cleaner version here
+  (BETA)
+[Clean GUI](https://github.com/1Emric/blooket-cheats/releases/tag/blooket)
 
 Bypassed
 
